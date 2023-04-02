@@ -3,7 +3,7 @@ This is a user script that will allow users to rearrange the rows of a rubric.
 
 ## Quick Install
 1. Install and enable the [Tampermonkey](http://tampermonkey.net/) browser extension
-2. Install the [sort-rubric.users.js](https://github.com/jamesjonesmath/canvancement/raw/master/rubrics/sort-rubric/sort-rubric.user.js) file
+2. Install the [sort-rubric.users.js](https://github.com/igraugar/canvas_sort_rubric/raw/master/rubrics/sort-rubric/sort-rubric.user.js) file
 
 ## About
 Rubrics are one area of Canvas that is not as refined as most. Creating an assignment rubric needs to be done through the web interface as their is no API support. When you discover that you accidentally left out a row or that you swapped two rows, your only alternative was to go through and start over and recreate the entire rubric.
